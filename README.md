@@ -28,5 +28,13 @@ Sign use apksigner
 
 ```bash
 pkg install apksigner
+
+
+
+
+
+
+
+Jnnbb
 apksigner -p yourpassword keystore yourapk newapkname
 ```
